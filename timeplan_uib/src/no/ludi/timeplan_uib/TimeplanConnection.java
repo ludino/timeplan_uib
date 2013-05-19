@@ -1,4 +1,4 @@
-package no.lusi.timeplan_uib;
+package no.ludi.timeplan_uib;
 
 import java.util.Arrays;
 

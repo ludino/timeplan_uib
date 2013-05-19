@@ -1,5 +1,6 @@
-package no.lusi.timeplan_uib;
+package no.ludi.timeplan_uib;
 
+import no.ludi.timeplan_uib.R;
 import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
