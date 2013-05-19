@@ -1,10 +1,9 @@
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context=".MainActivity$ItemListFragment"
     android:id="@+id/scrollView"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" >
+    android:layout_height="match_parent"
+    tools:context=".MainActivity$ItemListFragment" >
 
     <LinearLayout
         android:id="@+id/itemList"
